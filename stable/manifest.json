@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "target": "hood-stm32f103rc-v1",
+  "version": "1.1.0",
+  "version_code": 10100,
+  "size": 34848,
+  "sha256": "b772baa75a3910ba52863546f9a8f3f1ec4e71fb57a83e3127757694f2994e8e",
+  "signature": "nX72uZteOxGt5RRpMFrVQj6OfjJAs5OFjWEHMfvH36WAuFybqjM9jMmjtsY4AeHEU1xO5EypuuR3RkubvkS4dQ==",
+  "url": "https://kttui.github.io/hood-ota/stable/stm32-1.1.0.bin"
+}
